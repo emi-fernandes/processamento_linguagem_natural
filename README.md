@@ -114,3 +114,42 @@ As letras das músicas são coletadas do site Vagalume.
 ## Notebook
 
 [Abrir no Google Colab](https://colab.research.google.com/)
+
+4- # Pipeline de Processamento de Texto com NLTK
+
+Projeto voltado para a construção de um pipeline de Processamento de Linguagem Natural (NLP) utilizando a biblioteca NLTK.
+
+O objetivo é extrair um texto da Wikipédia sobre aprendizagem profunda e aplicar etapas de pré-processamento, análise estatística e análise linguística. O projeto demonstra como transformar um texto bruto em informações estruturadas, como tokens frequentes, bigramas, classes gramaticais e grupos nominais.
+
+## Principais tópicos abordados
+
+- Extração de texto da Wikipédia com Requests e BeautifulSoup  
+- Coleta de conteúdo sobre aprendizagem profunda  
+- Tokenização de textos em português  
+- Limpeza de texto com expressões regulares  
+- Conversão para letras minúsculas  
+- Remoção de pontuações e stopwords  
+- Análise de frequência dos tokens  
+- Identificação dos termos mais frequentes  
+- Geração e análise de bigramas  
+- Treinamento de um modelo de POS Tagging com o corpus Mac-Morpho  
+- Classificação gramatical de palavras  
+- Extração de grupos nominais com Chunking  
+- Uso de gramáticas regulares para identificar sequências de substantivos  
+
+## Tecnologias utilizadas
+
+- Python  
+- NLTK  
+- Requests  
+- BeautifulSoup  
+- Regular Expressions (Regex)  
+- Wikipédia  
+
+## Fonte dos dados
+
+O texto analisado é extraído da página da Wikipédia sobre aprendizagem profunda.
+
+## Notebook
+
+[Abrir no Google Colab](https://colab.research.google.com/)
