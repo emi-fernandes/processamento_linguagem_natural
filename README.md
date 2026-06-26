@@ -76,7 +76,7 @@ A base utilizada é a **Amazon Fine Food Reviews**, que reúne mais de 500 mil a
 
 [Abrir no Google Colab](https://colab.research.google.com/)
 
-3- # Análise de Letras do One Direction com TF-IDF
+# 3- Análise de Letras do One Direction com TF-IDF
 
 Projeto de Processamento de Linguagem Natural (NLP) voltado para a coleta, limpeza e análise das letras das músicas da banda One Direction.
 
@@ -115,7 +115,7 @@ As letras das músicas são coletadas do site Vagalume.
 
 [Abrir no Google Colab](https://colab.research.google.com/)
 
-4- # Pipeline de Processamento de Texto com NLTK
+# 4- Pipeline de Processamento de Texto com NLTK
 
 Projeto voltado para a construção de um pipeline de Processamento de Linguagem Natural (NLP) utilizando a biblioteca NLTK.
 
